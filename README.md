@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently studying at University of Southern California for Master Degree of CS
 - 🌱 I’m a Java Developer and love interesting Java projects
-- 👯 I’m looking to collaborate on grouping up a study group
+- 👯 I've had 4 internships and just finished the last one at Amazon this summer
 - 🤔 I like learning by doing and write blogs to summarize knowledge gained
 - 💬 Ask me about singing, workout and healthy eating
 - 📫 How to reach me: tomatogo@outlook.com
